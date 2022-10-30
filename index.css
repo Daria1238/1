@@ -1,0 +1,13 @@
+#btn {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background: cornflowerblue;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, .3);
+    border: none;
+    border-radius: 5px;
+    font-size: 36px;
+}

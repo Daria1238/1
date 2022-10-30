@@ -1,4 +1,4 @@
-alert('Hello. world');
+alert('Hello world');
 
 // const checker = confirm('Are you 18 or older?');
 //
